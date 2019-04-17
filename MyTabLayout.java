@@ -3,7 +3,7 @@
 // (powered by Fernflower decompiler)
 //
 
-package com.contec.clinic.widget;
+package 包;
 
 import android.animation.Animator;
 import android.animation.Animator.AnimatorListener;
